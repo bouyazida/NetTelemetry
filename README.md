@@ -80,7 +80,7 @@ Select the network interface from the listed adapters, then the tool begins capt
 
 ---
 
-## Project Structure
+## Project Structure 
 
 ```
 NetTelemetry/
